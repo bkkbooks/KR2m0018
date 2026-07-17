@@ -20,6 +20,7 @@ markers:
   - {type: indent, offset: 14, content: 　　, id: KR2m0018_krp_081-bkkind3}
   - {type: substitution, offset: 16, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: punctuation, offset: 17, content: (, id: KR2m0018_krp_081-bkkpn1}
+  - {type: voice, offset: 17, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 18, content: /, id: KR2m0018_krp_081-bkkpn2}
   - {type: punctuation, offset: 18, content: ), id: KR2m0018_krp_081-bkkpn3}
   - {type: 'kr:newline', offset: 18, content: '
@@ -45,6 +46,7 @@ markers:
       ', id: KR2m0018_krp_081-bkkkrnewl7}
   - {type: line-break, offset: 50, content: '', id: KR2m0018_WYG_081-1a07}
   - {type: punctuation, offset: 66, content: (, id: KR2m0018_krp_081-bkkpn7}
+  - {type: voice, offset: 66, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 67, content: /, id: KR2m0018_krp_081-bkkpn8}
   - {type: punctuation, offset: 67, content: ), id: KR2m0018_krp_081-bkkpn9}
   - {type: 'kr:newline', offset: 70, content: '
@@ -106,6 +108,7 @@ markers:
       ', id: KR2m0018_krp_081-bkkkrnewl20}
   - {type: line-break, offset: 202, content: '', id: KR2m0018_WYG_081-2a02}
   - {type: punctuation, offset: 216, content: (, id: KR2m0018_krp_081-bkkpn10}
+  - {type: voice, offset: 216, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 219, content: /, id: KR2m0018_krp_081-bkkpn11}
   - {type: substitution, offset: 220, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20802}}
   - {type: punctuation, offset: 222, content: ), id: KR2m0018_krp_081-bkkpn12}
@@ -121,6 +124,7 @@ markers:
   - {type: indent, offset: 243, content: 　　　, id: KR2m0018_krp_081-bkkind13}
   - {type: substitution, offset: 245, original: 卹, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17021}}
   - {type: punctuation, offset: 250, content: (, id: KR2m0018_krp_081-bkkpn13}
+  - {type: voice, offset: 250, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 253, content: /, id: KR2m0018_krp_081-bkkpn14}
   - {type: punctuation, offset: 255, content: ), id: KR2m0018_krp_081-bkkpn15}
   - {type: substitution, offset: 261, original: 闗, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19735}}
@@ -154,6 +158,7 @@ markers:
   - {type: line-break, offset: 306, content: '', id: KR2m0018_WYG_081-2b01}
   - {type: indent, offset: 306, content: 　　　, id: KR2m0018_krp_081-bkkind16}
   - {type: punctuation, offset: 314, content: (, id: KR2m0018_krp_081-bkkpn16}
+  - {type: voice, offset: 314, length: 5, name: note, id: n5}
   - {type: punctuation, offset: 317, content: /, id: KR2m0018_krp_081-bkkpn17}
   - {type: punctuation, offset: 319, content: ), id: KR2m0018_krp_081-bkkpn18}
   - {type: 'kr:newline', offset: 327, content: '
@@ -759,6 +764,7 @@ markers:
       ', id: KR2m0018_krp_081-bkkkrnewl146}
   - {type: line-break, offset: 2162, content: '', id: KR2m0018_WYG_081-9a02}
   - {type: punctuation, offset: 2178, content: (, id: KR2m0018_krp_081-bkkpn19}
+  - {type: voice, offset: 2178, length: 38, name: note, id: n6}
   - {type: punctuation, offset: 2184, content: /, id: KR2m0018_krp_081-bkkpn20}
   - {type: punctuation, offset: 2190, content: ), id: KR2m0018_krp_081-bkkpn21}
   - {type: 'kr:newline', offset: 2190, content: '
@@ -1666,4 +1672,4 @@ markers:
 
       ', id: KR2m0018_krp_081-bkkkrnewl324}
   back: []
-hash: sha256:032225656e92277c789a896e0162e5f87accc29cfcfb5a7d13fdb2ae1c98a052
+hash: sha256:a725295999f3d931ac5bb02dda9cb70ba1ab54e3fe37753c9d272a7b9e865d6e
